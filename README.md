@@ -17,7 +17,7 @@ A lightweight and interactive **Streamlit web app** that predicts the **next day
 
 ## 🖥️ Demo
 
-Live here 👉 https://stock-price-predictor-avaagdb8d4yqs5j6ea3uta.streamlit.app/
+Live here 👉 [Launch the web app](https://stock-price-predictor-avaagdb8d4yqs5j6ea3uta.streamlit.app/)
 
 ---
 
